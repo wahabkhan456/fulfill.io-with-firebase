@@ -1,0 +1,10 @@
+{
+  "Heading": "Acme Inc. developers",
+  "PICTURE_COLUMN_ID": "picture",
+  "PICTURE_COLUMN_LABEL": "Product",
+  "PICTURE_COLUMN_WIDTH": "3rem",
+  "TITLE_COLUMN_ID": "title",
+  "TITLE_COLUMN_LABEL": "Title",
+  "ALBUM_COLUMN_ID": "albumId",
+  "ALBUM_COLUMN_LABEL": "Album Id"
+}

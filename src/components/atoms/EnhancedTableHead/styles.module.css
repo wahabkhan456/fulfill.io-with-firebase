@@ -1,0 +1,7 @@
+.tableHead {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  opacity: 0.93;
+  z-index: 3;
+}
